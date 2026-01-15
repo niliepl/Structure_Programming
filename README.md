@@ -3,7 +3,7 @@ This project was developed for a Structured Programming course using C++. It pro
 
 # 📊 Pupil Statistics Analysis System
 
-This project was developed for a Structured Programming course using C++. It processes pupil enrollment data from a text file to perform categorization, descriptive statistics, and planning-based trend analysis for Primary and Secondary schools, following clear control flow and modular design principles.
+This project was developed for a Structured Programming course using C++. It processes pupil enrollment data from a text file to perform categorization, descriptive statistics and planning-based trend analysis for Primary and Secondary schools, following clear control flow and modular design principles.
 
 # 📌 Features
 
