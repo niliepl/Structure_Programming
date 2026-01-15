@@ -30,8 +30,8 @@ This project was developed for a Structured Programming course using C++. It pro
 # ▶️ How to Run the Program (OnlineGDB – C++)
 
 * Open [Online GDB](https://www.onlinegdb.com/#) and choose Language C++.
-* Download and Upload the file of [main.cpp]() into the editor.
-* Download and Upload the file named [Pupil_Statistics.txt]() in OnlineGDB.
+* Download and Upload the file of [main.cpp](https://github.com/niliepl/Structure_Programming/blob/main/main.cpp) into the editor.
+* Download and Upload the file named [Pupil_Statistics.txt](https://github.com/niliepl/Structure_Programming/blob/main/Pupil_Statistics.txt) in OnlineGDB.
 * Click Run.
 
 Select a function from the menu:
